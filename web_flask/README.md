@@ -1,0 +1,1 @@
+Welcome to the Airbnb Clone Web Framework project! This project is a web application framework that allows you to create a custom website similar to Airbnb. Whether you're building a vacation rental platform, a property listing website, or a hospitality service marketplace, this framework provides a solid foundation for your project.
